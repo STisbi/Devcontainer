@@ -1,5 +1,7 @@
 {
+    "name": "Devcontainer",
     "image": "thedarklordschef/leet:base_image",
+    "containerUser": "user",
     "customizations": 
     {
       // Configure properties specific to VS Code.
